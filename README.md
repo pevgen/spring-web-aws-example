@@ -1,0 +1,1 @@
+This is my first example of deploying a spring boot app (jar) to AWS(Elastic Beanstalk).
